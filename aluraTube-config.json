@@ -1,0 +1,14 @@
+{
+  "name": "Gustavo Henrique",
+  "job": "Dev Júnior",
+  "github": "GustavoAzHenrique",
+  "playLists": {
+    "jogos": [
+      {
+        "title": "Algum título",
+        "url": "url",
+        "tumb": "tumbmail do video"
+      }
+    ]
+  }
+}
